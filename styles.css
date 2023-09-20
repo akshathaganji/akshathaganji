@@ -1,0 +1,108 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:yellow;
+    text-align: center;
+    border: 10px solid #0073e6; 
+    border-image: url('https://tse3.mm.bing.net/th?id=OIP.1SQnHzM6KGhuqzEMcjt7kAHaHa&pid=Api&P=0&h=220') 30 round; 
+    padding: 20px; 
+}
+
+header {
+    background-color:yellow;
+    color:blue;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic
+}
+h2{
+    margin:0;
+    padding:0;
+    color:yellow;
+    text-align:left;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:blue;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-style:dotted;
+}
+.img{
+float:right;
+width:100%;
+}
+.secondimage {
+    float: right;
+    margin: 10px; /* Add some margin for spacing */
+    border: 2px solid #0073e6; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 3px 3px 5px #888888; /* Add a box shadow */
+    max-width: 100px; /* Set a maximum width for the image */
+}
+.thirdimage
+{
+    float: right;
+    margin: 10px; /* Add some margin for spacing */
+    border: 2px solid #0073e6; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 3px 3px 5px #888888; /* Add a box shadow */
+    max-width: 100px; /* Set a maximum width for the image */   
+}
+.fourthimage
+{
+    float: right;
+    margin: 10px; 
+    border: 2px solid #0073e6; 
+    border-radius: 5px; 
+    box-shadow: 3px 3px 5px #888888; 
+    max-width:100px;
+
+}
+.fifthimage
+{
+    float: right;
+    margin: 10px; 
+    border: 2px solid #0073e6; 
+    border-radius: 5px; 
+    box-shadow: 3px 3px 5px #888888; 
+    max-width:100px;  
+}
+.sixthimage
+{
+    float: right;
+    margin: 10px; 
+    border: 2px solid #0073e6; 
+    border-radius: 5px; 
+    box-shadow: 3px 3px 5px #888888; 
+    max-width:50px;    
+}
+.p2
+{
+    font:bold;
+    color:blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.primaryimage
+{
+    float: center;
+    margin: 10px; 
+    border: 2px solid #0073e6; 
+    border-radius: 5px; 
+    box-shadow: 3px 3px 5px #888888; 
+    max-width:200px;   
+}
+p
+{
+    color:white;
+}
